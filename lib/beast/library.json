@@ -1,0 +1,8 @@
+{
+    "name": "beast",
+    "version": "0.0.1",
+    "dependencies": {
+        "adafruit/Adafruit BusIO": "*",
+        "adafruit/Adafruit MCP23017 Arduino Library": "^2.3.2"
+    }
+}
